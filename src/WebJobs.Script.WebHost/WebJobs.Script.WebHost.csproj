@@ -92,7 +92,7 @@
   </ItemGroup>
 
   <ItemGroup Condition=" '$(RuntimeIdentifier)' != 'linux-x64' ">
-    <PackageReference Include="ServerlessSecuritywin-x64" Version="*-*" />
+    <PackageReference Include="ServerlessSecuritywin-x64" Version="0.1.129" />
   </ItemGroup>
 
   <ItemGroup>
